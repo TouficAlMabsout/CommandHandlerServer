@@ -36,3 +36,25 @@ woodstox-core-asl-4.4.1.jar
 wsdl4j-1.6.3.jar
 xml-resolver-1.2.jar
 xmlschema-core-2.2.1.jar
+
+Java Resources jars:
+commons-collections4-4.4.jar
+commons-compress-1.26.2.jar
+commons-io-2.16.1.jar
+commons-logging-1.2.jar
+jackson-annotations-2.17.0.jar
+jackson-core-2.17.0.jar
+jackson-databind-2.17.0.jar
+jackson-dataformat-xml-2.17.0.jar
+javax.servlet-3.1.jar
+json-20240303.jar
+log4j-api-2.20.0.jar
+log4j-core-2.20.0.jar
+ojdbc8.jar
+poi-4.1.2.jar
+poi-ooxml-4.1.2.jar
+poi-ooxml-schemas-4.1.2.jar
+poi-scratchpad-4.1.2.jar
+servlet-api.jar
+SparseBitSet-1.2.jar
+xmlbeans-3.1.0.jar
