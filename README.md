@@ -108,3 +108,13 @@ websocket-api.jar
 xmlbeans-3.1.0.jar
 annotations-api.jar
 catalina.jar
+
+
+Configure the properties file as follows:
+# AES-256 Configuration
+aes.key=KEY_64
+aes.IV=IV_HEX_32
+aes.username=USERNAME_HEX
+aes.password=PASSWORD_HEX
+log.path= PATH_ON_LAPTOP
+allowedExtensions=.txt .pdf .csv .html .htm .xls .xlsx .doc .docx .ppt .pptx .png .jpg .jpeg .gif
