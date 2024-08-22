@@ -84,6 +84,7 @@
 - jsp-api.jar
 - log4j.properties
 - log4j-1.2.15.jar
+- orai18n-19.3.0.0.jar
 - poi-4.1.2.jar
 - poi-ooxml-4.1.2.jar
 - poi-ooxml-schemas-4.1.2.jar
