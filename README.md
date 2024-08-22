@@ -1,5 +1,5 @@
 # Project README
-- This Project was done using oracle Database, when using another database please download its corresponding jars
+
 ## Web-INF JARs
 - activation-1.1.jar
 - asm-5.0.4.jar
@@ -52,7 +52,6 @@
 - json-20240303.jar
 - log4j-api-2.20.0.jar
 - log4j-core-2.20.0.jar
-- ojdbc8.jar
 - poi-4.1.2.jar
 - poi-ooxml-4.1.2.jar
 - poi-ooxml-schemas-4.1.2.jar
@@ -85,8 +84,6 @@
 - jsp-api.jar
 - log4j.properties
 - log4j-1.2.15.jar
-- ojdbc8.jar
-- orai18n-19.3.0.0.jar
 - poi-4.1.2.jar
 - poi-ooxml-4.1.2.jar
 - poi-ooxml-schemas-4.1.2.jar
