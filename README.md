@@ -1,4 +1,4 @@
-Web-INF jars:
+# Web-INF jars:
 activation-1.1.jar
 asm-5.0.4.jar
 commons-logging-1.2.jar
@@ -37,7 +37,7 @@ wsdl4j-1.6.3.jar
 xml-resolver-1.2.jar
 xmlschema-core-2.2.1.jar
 
-Java Resources jars:
+# Java Resources jars:
 commons-collections4-4.4.jar
 commons-compress-1.26.2.jar
 commons-io-2.16.1.jar
@@ -59,7 +59,7 @@ servlet-api.jar
 SparseBitSet-1.2.jar
 xmlbeans-3.1.0.jar
 
-Tomcat 7.0 jars:
+# Tomcat 7.0 jars:
 catalina-ant.jar
 catalina-ha.jar
 catalina-tribes.jar
@@ -110,11 +110,10 @@ annotations-api.jar
 catalina.jar
 
 
-Configure the properties file as follows:
-# AES-256 Configuration
+# Configure the properties file as follows: 
 aes.key=KEY_64
 aes.IV=IV_HEX_32
-aes.username=USERNAME_HEX
-aes.password=PASSWORD_HEX
+aes.username=USERNAME_HEX_MULTIPLE_32
+aes.password=PASSWORD_HEX_MULTIPLE_32
 log.path= PATH_ON_LAPTOP
 allowedExtensions=.txt .pdf .csv .html .htm .xls .xlsx .doc .docx .ppt .pptx .png .jpg .jpeg .gif
